@@ -1,7 +1,6 @@
 {
   "$schema": "./node_modules/wrangler/config-schema.json",
-  "name": "AnMap",
-  "main": "src/index.js",
+  "name": "anmap",
   "compatibility_date": "2026-09-11",
   "assets": {
     "directory": "./dist"
