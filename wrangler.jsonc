@@ -4,5 +4,15 @@
   "compatibility_date": "2026-09-11",
   "assets": {
     "directory": "./public/"
-  }
+  },
+  "routes": [
+    {
+      "pattern": "taxidienrg.io.vn",
+      "custom_domain": true
+    },
+    {
+      "pattern": "www.taxidienrg.io.vn",
+      "custom_domain": true
+    }
+  ]
 }
